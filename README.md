@@ -15,7 +15,6 @@ DBSCAN was chosen over K-Means, HDBSCAN, and Hierarchical Clustering due to its 
 - **pre_process_data.py**: Script for preprocessing the original dataset.
 - **requirements.txt**: List of required Python libraries.
 - **system design overview**: Detailed System Design for Order Clustering in Quick Commerce (PART-2)
-- **README.md**: This file.
 
 ## Major Steps Taken
 
